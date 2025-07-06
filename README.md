@@ -12,13 +12,13 @@
   <p>📚 Right now I’m diving into <strong>the MERN stack to build full-stack web applications.</strong></p>
 
   <p>👨‍💻 Check out all my projects on 
-    <a href="https://portfolio-azure-six-62.vercel.app/">My Portfolio</a>
+    <a href="https://portfolio-azure-six-62.vercel.app/">portfolio</a>
   </p>
 
   <p>💬 Connect with me: <strong>anushkaa2704@gmail.com</strong></p>
 
   <p>📄 Know about my experiences → 
-    <a href="https://drive.google.com/file/d/1Ype_CmcHnroY2LVRAofEi6ThXqWH_XYW/view?usp=sharing">View My Resume</a>
+    <a href="https://drive.google.com/file/d/1Ype_CmcHnroY2LVRAofEi6ThXqWH_XYW/view?usp=sharing">Resume</a>
   </p>
 
 ### Connect with me
