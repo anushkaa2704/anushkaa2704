@@ -18,7 +18,7 @@
   <p>💬 Connect with me: <strong>anushkaa2704@gmail.com</strong></p>
 
   <p>📄 Know about my experiences → 
-    <a href="[[https://drive.google.com/file/d/1Ype_CmcHnroY2LVRAofEi6ThXqWH_XYW/view?usp=sharing](https://drive.google.com/drive/folders/1bH8i1K4ne_pLMFXQpOqVR3U-bJFEcEt3?usp=sharing)](https://drive.google.com/drive/folders/1bH8i1K4ne_pLMFXQpOqVR3U-bJFEcEt3?usp=sharing)">resume</a>
+    <a href="https://drive.google.com/drive/folders/1bH8i1K4ne_pLMFXQpOqVR3U-bJFEcEt3">resume</a>
   </p>
 
 ### Connect with me
