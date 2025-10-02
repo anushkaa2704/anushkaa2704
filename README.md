@@ -17,9 +17,7 @@
 
   <p>💬 Connect with me: <strong>anushkaa2704@gmail.com</strong></p>
 
-  <p>📄 Know about my experiences → 
-    <a href="https://drive.google.com/drive/folders/1bH8i1K4ne_pLMFXQpOqVR3U-bJFEcEt3">resume</a>
-  </p>
+
 
 ### Connect with me
 ───────────────────────────────────────────────────────────────────────────────
