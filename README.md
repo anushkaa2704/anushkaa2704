@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Hi 👋, I'm Anushkaa</h1>
+  <h1>Hi , I'm Anushkaa</h1>
   
 
   <h3>A passionate frontend developer with strong Java skills, currently exploring the MERN stack</h3>
