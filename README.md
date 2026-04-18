@@ -9,6 +9,7 @@
 </a>
 
 # 💻 Tech Stack:
+<br>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/javafx-%23FF0000.svg?style=flat&logo=javafx&logoColor=white"/>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white"/>
@@ -26,10 +27,11 @@
 <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7"/>
 
 # 📊 GitHub Stats:
+<br>
 
-<img src="https://github-readme-stats.shion.dev/api?username=anushkaa2704&theme=transparent&hide_border=false&include_all_commits=true&count_private=true"/>
+<img src="https://github-readme-stats.shion.dev/api?username=anushkaa2704&theme=transparent&hide_border=false&include_all_commits=true&count_private=true"/><br><br>
 
-<img src="https://streak-stats.demolab.com/?user=anushkaa2704&theme=transparent&hide_border=false"/>
+<img src="https://streak-stats.demolab.com/?user=anushkaa2704&theme=transparent&hide_border=false"/><br><br>
 
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=anushkaa2704&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 
